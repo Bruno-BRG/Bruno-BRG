@@ -3,7 +3,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frykits&theme=radical" alt="frykits" /></a>-->
 
-- 🔭 I’m currently working on **A SHA256 algorithm in Go(DONE)**
+- 🔭 I’m currently working on **A key logger in Go(Not malware inclined just to learn more structure of Go)**
 
 - 🌱 I’m currently learning **Go and Rust**
 
