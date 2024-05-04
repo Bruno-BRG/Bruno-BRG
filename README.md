@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bruno Rocha</h1>
 <h3 align="center">A passionate CompSci student from Brazil</h3>
 
-- 🔭 I’m currently working on **A key logger in Go(Not malware inclined just to learn more structure of Go)**
+- 🔭 I’m currently working on **A key logger in Go**
 
 - 🌱 I’m currently learning **Go and Rust**
 
