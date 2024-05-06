@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate CompSci student from Brazil developer from Brazil</h3>
 
 - 🔭 I’m currently working on **CLI application in GO**
 
