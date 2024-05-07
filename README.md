@@ -1,6 +1,6 @@
 <h3 align="center">A passionate CompSci student from Brazil</h3>
 
-- 🔭 I’m currently working on **CLI application in GO**
+- 🔭 I’m currently working on **Working on Comway`s Game of Life in Go**
 
 - 🌱 I’m currently learning **Full stack development**
 
