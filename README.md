@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bruno Rocha AKA Frykits</h1>
 <h3 align="center">I am a brazilian student of CompSci</h3>
 
-- 🔭 I’m currently working on [Comways Game of Life in Go](https://github.com/Frykits/GameOfLife)
+- 🔭 I’m currently working on [Conways Game of Life in Go](https://github.com/Frykits/GameOfLife)
 
 - 🌱 I’m currently learning **More about Goland**
 
