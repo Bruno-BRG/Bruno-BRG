@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bruno Rocha AKA Frykits</h1>
 <h3 align="center">I am a brazilian student of CompSci</h3>
 
-- 🔭 I’m currently working on Java e-commerce for University
+- 🔭 I’m currently working on Designing a game in Java
 
-- 🌱 I’m currently learning **JAVA 17**
+- 🌱 I’m currently learning **Game Desing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Frykits/projetoPortifolio](https://github.com/Frykits/projetoPortifolio)
 
