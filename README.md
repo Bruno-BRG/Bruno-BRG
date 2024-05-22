@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Game Desing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Frykits/projetoPortifolio](https://github.com/Frykits/projetoPortifolio)
+- 👨‍💻 All of my projects are available at https://github.com/Frykits
 
 - 📫 How to reach me **brg.brunorocha@gmail.com**
 
