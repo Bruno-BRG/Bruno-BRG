@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Designing a game in Java
 
-- 🌱 I’m currently learning **Game Desing**
+- 🌱 I’m currently learning **Game Design**
 
 - 👨‍💻 All of my projects are available at https://github.com/Frykits
 
