@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bruno Rocha AKA Frykits</h1>
+<h1 align="center">Hi 👋, I'm Bruno Rocha </h1>
 <h3 align="center">I am a brazilian student of CompSci</h3>
 
 - 🔭 I’m currently working on Designing a game in Java
