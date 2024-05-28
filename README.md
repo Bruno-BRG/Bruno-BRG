@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bruno</h1>
 <h3 align="center">A passionate specialized system developer and Computer Science student</h3>
 
-- 🔭 I’m currently working on **A neural network**
+- 🔭 I’m currently working on **A djikstra algorith in java 17**
 
-- 🌱 I’m currently learning **Machine Learning and neural networking**
+- 🌱 I’m currently learning **Pathing algorithms**
 
 - 📫 How to reach me **brg.brunorocha@gmail.com**
 
