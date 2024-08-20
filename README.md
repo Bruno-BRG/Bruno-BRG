@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bruno</h1>
-<h3 align="center">A passionate specialized system developer and Computer Science student in the Universidade Jorge Amado</h3>
+<h3 align="center">A passionate specialized system developer and Computer Science student in the Centro Universitario Jorge Amado</h3>
 
-- 🔭 I’m currently working on **A mod for Binding of isaac rebirth**
+- 🔭 I’m currently working on **Making my own programming language**
 
-- 🌱 I’m currently learning **Modding Games**
+- 🌱 I’m currently learning **A lot of stuff**
 
 - 📫 How to reach me **brg.brunorocha@gmail.com**
 
