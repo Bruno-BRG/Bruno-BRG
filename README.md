@@ -21,6 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bruno-brg&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="bruno-brg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bruno-brg&show_icons=true&theme=highcontrast&locale=en" alt="bruno-brg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bruno-brg&theme=highcontrast" alt="bruno-brg" /></p>
