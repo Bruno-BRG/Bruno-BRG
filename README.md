@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bruno</h1>
 <h3 align="center">A passionate specialized system developer and Computer Science student in the Centro Universitario Jorge Amado</h3>
 
-- 🔭 I’m currently working on **Making my own programming language**
+- I’m currently working on **Making my own programming language**
 
-- 🌱 I’m currently learning **A lot of stuff**
+- How to reach me **brg.brunorocha@gmail.com**
 
-- 📫 How to reach me **brg.brunorocha@gmail.com**
+- Linkedin [https://www.linkedin.com/in/bruno-rocha-guimar%C3%A3es-748a47266/](https://www.linkedin.com/in/bruno-rocha-guimar%C3%A3es-748a47266/)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/bruno-rocha-guimar%C3%A3es-748a47266/](https://www.linkedin.com/in/bruno-rocha-guimar%C3%A3es-748a47266/)
-
-- ⚡ Fun fact **I love dwarf fortress**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
