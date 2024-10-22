@@ -2,7 +2,7 @@
   Bruno</h1>
 <h3 align="center">A passionate specialized system developer, Computer Science student in the Centro Universitario Jorge Amado and Intern at the Parque tecnologico da Bahia</h3>
 
-- I’m currently working on **Making my own programming language and making mathematical projections**
+- I’m currently working on **Making a CHIP-8 emulator**
 
 - How to reach me **brg.brunorocha@gmail.com**
 
