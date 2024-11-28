@@ -7,7 +7,7 @@
 - How to reach me **brg.brunorocha@gmail.com**
 
 - Go check my [Cybersecurity Wiki](http://201.63.147.218:8035)
-- Go check my [Residue analysis dashboard](http://64.227.111.206:8501/)
+- Go check my [Residue analysis dashboard](http://descartin.nexuscode.tech/)
 
 - [Linkedin](https://www.linkedin.com/in/bruno-rocha-guimar%C3%A3es-748a47266/)
 
