@@ -2,7 +2,7 @@
   Bruno</h1>
 <h3 align="center">A passionate specialized system developer, Computer Science student in the Centro Universitario Jorge Amado and Intern at the Parque tecnologico da Bahia</h3>
 
-- I’m currently working on **Home Lab with a Enterprise Server**
+- I’m currently working on *Making my own Text Editor for Coding**
 
 - How to reach me **brg.brunorocha@gmail.com**
 
