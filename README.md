@@ -1,13 +1,8 @@
 <h1 align="center">I am...
   Bruno</h1>
-<h3 align="center">A passionate specialized system developer, Computer Science student in the Centro Universitario Jorge Amado and Intern at the Parque tecnologico da Bahia</h3>
+<h3 align="center">DEV E LO PER</h3>
 
-- I’m currently working on **Making a pokemon ROM hack**
-
-- How to reach me **brg.brunorocha@gmail.com**
-
-- Go check my [Cybersecurity Wiki](http://201.63.147.218:8035)
-- Go check my [Residue analysis dashboard](http://descartin.nexuscode.tech/)
+- Try my [terminal nvim]( https://github.com/Bruno-BRG/terminal.nvim) plugin my guys
 
 - [Linkedin](https://www.linkedin.com/in/bruno-rocha-guimar%C3%A3es-748a47266/)
 
