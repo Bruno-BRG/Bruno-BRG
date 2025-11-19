@@ -1,6 +1,6 @@
 Bruno
 
-Currently working as a NeuralTechnology Researcher.
+Currently working as a NResearcher in Neurotechnology.
 
 Check my nvim plugin:
 [terminal.nvim](https://github.com/Bruno-BRG/terminal.nvim)
