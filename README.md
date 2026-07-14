@@ -1,6 +1,6 @@
 Bruno
 
-Currently working as Systems Developer and Researcher in Neurotechnology.
+Currently working as Systems Developer and Researcher in Neurotechnology and Systems Developer at Melt Service.
 
 Check my nvim plugin:
 [terminal.nvim](https://github.com/Bruno-BRG/terminal.nvim)
