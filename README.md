@@ -15,7 +15,7 @@
 ## `~/bruno $ whoami`
 
 Trabalho na ponta onde **software encontra ciência**.
-De dia, transformo processos de engenharia civil em sistemas backend e integro **IA/RAG** em produto real na **Melt Engenharia**.
+De dia, transformo processos de engenharia civil em sistemas backend e integro **IA/RAG** em produto real na **Thoth Corp**.
 Em paralelo, pesquiso **interfaces cérebro-computador** no **SENAI CIMATEC**, com pipelines de EEG e CNNs classificando imagética motora em tempo real.
 
 Rigor de pesquisa (validação, reprodutibilidade, dados limpos) com a pressa saudável de quem entrega produto.
@@ -122,7 +122,7 @@ npm run migrate && npm run dev
 
 ## 🧭 Agora
 
-- 🏗️ **Melt Service Engenharia** (abr 2026 → atual): backend, RAG, Ollama e automação de Relatório Diário de Obra e manutenção
+- 🏗️ **Thoth Corp** (abr 2026 → atual): backend, RAG, Ollama e automação de Relatório Diário de Obra e manutenção
 - 🔬 **SENAI CIMATEC** (abr 2025 → atual): neurotecnologia, telessaúde e BCI com CNN em tempo real
 - 🌎 Inglês fluente, pronto para times globais
 
